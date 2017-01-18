@@ -1,4 +1,4 @@
-# Open_OSINT_Team_Links
+# Open OSINT Team Links
 Links for the Open OSINT Slack Team for OSINT collaberation. This is already in .html format and ready to be imported into your browser as bookmark. These will cover OSINT for a wide range of investigators and researchers.
 
 Slack Team Signup: https://openosint.signup.team
