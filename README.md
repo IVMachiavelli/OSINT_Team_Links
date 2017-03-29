@@ -1,7 +1,7 @@
 # OSINT Team
 For anyone interested in helping others in learning and conducting investigations.
-Slack Team Signup: https://openosint.signup.team
 
+Slack Team Signup: https://openosint.signup.team
 Slack Team: https://openosint.slack.com
 
 # Open OSINT Team Links
