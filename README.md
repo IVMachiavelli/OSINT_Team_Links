@@ -1,5 +1,5 @@
 # OSINT Team
-For the hackers, journalists, Private Investigators, sleuths, sherlocks, and everyone in between.
+For the Hackers, Journalists, Private Investigators, Sleuths, Sherlocks, and everyone in between.
 
 Slack Team Signup: https://openosint.signup.team
 
@@ -17,7 +17,7 @@ Bookmarks for the Open OSINT Slack Team for OSINT collaberation. This is already
 <p>unzip the the html file</p>
 <p>In firefox click show all bookmarks</p>
 <p>Then click "Import and Backup" and "Import from HTML"</p> 
-> Note: this will not replace your current bookmarks  
+<p>Note: this will not replace your current bookmarks</p>  
 
 # Original
 This list was originaly taken from https://github.com/jivoi/awesome-osint and converted into html for easy import. This list had a great deal of links to commercial software and hasn't been updated in some time. The focus of this list is to keep commercial software out. Too many links didn't have any actionable OSINT value and have been removed. All thanks go to jivio for the original, but this version will be going in different direction.
