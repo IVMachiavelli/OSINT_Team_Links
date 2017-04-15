@@ -5,7 +5,7 @@ Slack Team Signup: https://openosint.signup.team
 
 Slack Team: https://openosint.slack.com
 
-# Open OSINT Team Links
+# OSINT Team Links
 Bookmarks for the Open OSINT Slack Team for OSINT collaberation. This is already in .html format and ready to be imported into your browser as bookmarks under the folder name OSINT. This will cover OSINT for a wide range of investigators and researchers.  
 
 
@@ -17,5 +17,5 @@ Bookmarks for the Open OSINT Slack Team for OSINT collaberation. This is already
 <p>Download as a zip file</p>
 <p>unzip the the html file</p>
 <p>In firefox click show all bookmarks</p>
-<p>Then click "Import and Backup" and "Import from HTML"</p> 
+<p>Then click "Import and Backup" and "Import from HTML"</p>
 <p>Note: this will not replace your current bookmarks</p>
