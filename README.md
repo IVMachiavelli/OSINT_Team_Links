@@ -8,6 +8,6 @@ Slack Team: https://openosint.slack.com
 # bookmarks.html
 These are ready to be imported directly into your browser, it will not remove any bookmarks you already have.
 
-# index.html
-This is a copy of what is hosted at https://inteltechniques.com/ivmachiavelli   
+# Online
+You can also visit https://inteltechniques.com/ivmachiavelli   
 
