@@ -5,16 +5,9 @@ Slack Team Signup: https://openosint.signup.team
 
 Slack Team: https://openosint.slack.com
 
-# OSINT Team Links
-Bookmarks for the Open OSINT Slack Team for OSINT collaberation. This is already in .html format and ready to be imported into your browser as bookmarks under the folder name OSINT. This will cover OSINT for a wide range of investigators and researchers.  
+# bookmarks.html
+These are ready to be imported directly into your browser, it will not remove any bookmarks you already have.
 
-# Installation
-<p>Simply clone the repo and import into your browser.</p>
-<p>git clone https://github.com/IVMachiavelli/Open_OSINT_Team_Links.git</p>
-<p>Then open your browser and import the bookmarks as html.</p>
-<p>OR</p>
-<p>Download as a zip file</p>
-<p>unzip the the html file</p>
-<p>In firefox click show all bookmarks</p>
-<p>Then click "Import and Backup" and "Import from HTML"</p>
-<p>Note: this will not replace your current bookmarks</p>
+# index.html
+This is a copy of what is hosted at https://inteltechniques.com/ivmachiavelli   
+
