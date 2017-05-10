@@ -30,8 +30,8 @@ These are ready to be imported directly into your browser, it will not remove an
 [Sikuli](http://www.sikuli.org/)<br>
 [WeWiredWeb](https://wewiredweb.com/)<br>
 ### Stolen Property
-[Art Loss (Stolen Art)<br>](http://www.artloss.com)<br>
-[iamstolen (UK)<br>](http://www.iamstolen.com/)<br>
+[Art Loss (Stolen Art)](http://www.artloss.com)<br>
+[iamstolen (UK)](http://www.iamstolen.com/)<br>
 [hotgunz](http://www.hotgunz.com/search.php)<br>
 ### Fact Checking
 [Checkdesk](https://meedan.com/en/checkdesk)<br>
@@ -51,7 +51,7 @@ These are ready to be imported directly into your browser, it will not remove an
 [Terra server](https://www.terraserver.com/)<br>
 [Old Maps](http://www.oldmapsonline.org)<br>
 [Mapillary](https://www.mapillary.com/)<br>
-[Land Information (NZ)<br>](https://data.linz.govt.nz/data/)<br>
+[Land Information (NZ)](https://data.linz.govt.nz/data/)<br>
 [Great Lakes Wildlife](http://maps.glifwc.org/)<br>
 [Liveumaps](http://liveuamap.com)<br>
 [Land Viewer](https://lv.eosda.com/)<br>
@@ -182,7 +182,7 @@ These are ready to be imported directly into your browser, it will not remove an
 [Unbabel](https://unbabel.com/)<br>
 [WorldLingo](http://www.worldlingo.com/)<br>
 [WorldReference.com](http://www.wordreference.com/)<br>
-[Yamli (Arabic Search Engine)<br>](http://www.yamli.com/)<br>
+[Yamli (Arabic Search Engine)](http://www.yamli.com/)<br>
 [Yandex Translate](https://translate.yandex.ru/)<br>
 ### Web History and cached websites
 [Archive.is](http://archive.is/)<br>
@@ -285,25 +285,25 @@ These are ready to be imported directly into your browser, it will not remove an
 [Craiglist](http://losangeles.craigslist.org/)<br>
 [CVFox](http://www.cvfox.com/)<br>
 [Dice](http://www.dice.com/)<br>
-[Eluta (Canada)<br>](http://www.eluta.ca/)<br>
+[Eluta (Canada)](http://www.eluta.ca/)<br>
 [Eurojobs](https://www.eurojobs.com/)<br>
 [Fish4Jobs](http://www.fish4.co.uk/)<br>
 [Glassdoor](https://www.glassdoor.com/)<br>
 [Headhunter](http://www.headhunter.com/)<br>
 [Indeed](http://www.indeed.com/)<br>
-[Jobs (Poland)<br>](http://www.jobs.pl/)<br>
-[Jobsite (UK)<br>](http://www.jobsite.co.uk/)<br>
+[Jobs (Poland)](http://www.jobs.pl/)<br>
+[Jobsite (UK)](http://www.jobsite.co.uk/)<br>
 [Linkedin](https://www.linkedin.com/)<br>
 [Monster](http://www.monster.com/)<br>
-[Naukri (India)<br>](http://www.naukri.com/)<br>
-[Reed (UK)<br>](http://www.reed.co.uk/)<br>
-[Seek (Australia)<br>](http://www.seek.com.au/)<br>
+[Naukri (India)](http://www.naukri.com/)<br>
+[Reed (UK)](http://www.reed.co.uk/)<br>
+[Seek (Australia)](http://www.seek.com.au/)<br>
 [SimplyHired](http://www.simplyhired.com/)<br>
 [Xing](http://www.xing.com/)<br>
 [ZipRecruiter](https://www.ziprecruiter.com/)<br>
 ### Company Research
 [AllStocksLinks](http://www.allstocks.com/links)<br>
-[712 (FR)<br>](https://www.118712.fr/)<br>
+[712 (FR)](https://www.118712.fr/)<br>
 [Battle of the Internet Giants](http://pennystocks.la/battle-of-internet-giants)<br>
 [Better Business Bureau](http://www.bbb.org/)<br>
 [Bizeurope](http://www.bizeurope.com/)<br>
@@ -405,8 +405,8 @@ These are ready to be imported directly into your browser, it will not remove an
 [sync me](https://sync.me/)<br>
 [True Caller](https://www.truecaller.com/)<br>
 [Free Carrier Lookup](http://freecarrierlookup.com/)<br>
-[bmobile.in (India)<br>](https://bmobile.in/)<br>
-[Phone Validator (US)<br>](http://www.phonevalidator.com)<br>
+[bmobile.in (India)](https://bmobile.in/)<br>
+[Phone Validator (US)](http://www.phonevalidator.com)<br>
 [Next Caller](https://nextcaller.com/)<br>
 ### People Investigations
 [Profile Engine](http://profileengine.com/)<br>
@@ -421,11 +421,11 @@ These are ready to be imported directly into your browser, it will not remove an
 [North Carolina Resident DB](https://northcarolinaresidentdb.com)<br>
 [Florida Resident DB](https://floridaresidentdb.com/)<br>
 [Starving Farmer](http://www.starvingfarmer.com/)<br>
-[411 (US)<br>](http://www.411.com/)<br>
-[192 (UK)<br>](http://www.192.com/)<br>
+[411 (US)](http://www.411.com/)<br>
+[192 (UK)](http://www.192.com/)<br>
 [Alumni.net](http://www.alumni.net/)<br>
 [Ancestry](http://www.ancestry.com/)<br>
-[Voter Records (US)<br>](https://voterrecords.com)<br>
+[Voter Records (US)](https://voterrecords.com)<br>
 [Canada411](http://www.canada411.ca/)<br>
 [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)<br>
 [Charlie App](https://charlieapp.com/)<br>
@@ -436,14 +436,14 @@ These are ready to be imported directly into your browser, it will not remove an
 [facesearch](http://facesaerch.com/)<br>
 [Family Search](https://familysearch.org/)<br>
 [Family Tree Now](http://www.familytreenow.com/search)<br>
-[Federal Bureau of Prisons - Inmate Locator (US)<br>](http://www.bop.gov/inmateloc)<br>
-[Fold3 (US Military Records)<br>](http://www.fold3.com/)<br>
+[Federal Bureau of Prisons - Inmate Locator (US)](http://www.bop.gov/inmateloc)<br>
+[Fold3 (US Military Records)](http://www.fold3.com/)<br>
 [Forebears](http://forebears.io/)<br>
 [Biz Yellow Pages, USA Business & People Directory](http://www.bizyellowpages.com/)<br>
 [Genealogy Bank](http://www.genealogybank.com/)<br>
 [Genealogy Links](http://www.genealogylinks.net/)<br>
-[Burial Records (UK)<br>](http://www.asedonline.com)<br>
-[Hey Press (Search for Journalists)<br>](https://www.hey.press/)<br>
+[Burial Records (UK)](http://www.asedonline.com)<br>
+[Hey Press (Search for Journalists)](https://www.hey.press/)<br>
 [Infobel](http://www.infobel.com/en/world)<br>
 [Infospace White Pages](http://infospace.com/home/white-pages)<br>
 [Interment](http://www.interment.net/data/search.htm)<br>
@@ -454,13 +454,13 @@ These are ready to be imported directly into your browser, it will not remove an
 [Lullar](http://com.lullar.com/)<br>
 [MarketVisual](http://www.marketvisual.com/)<br>
 [My Life People Search](https://www.mylife.com/people-search)<br>
-[The National Archives (UK)<br>](http://www.nationalarchives.gov.uk/)<br>
+[The National Archives (UK)](http://www.nationalarchives.gov.uk/)<br>
 [PeekYou](http://www.peekyou.com/)<br>
-[People Search (Australia)<br>](http://www.peoplesearch.com.au/)<br>
-[People Search (Philippines)<br>](https://www.peoplesearch.ph)<br>
+[People Search (Australia)](http://www.peoplesearch.com.au/)<br>
+[People Search (Philippines)](https://www.peoplesearch.ph)<br>
 [PeopleSearch.net](http://www.peoplesearch.net/)<br>
 [Pipl](https://pipl.com/)<br>
-[WhitePages Plus (pipl)<br>](https://whitepages.plus)<br>
+[WhitePages Plus (pipl)](https://whitepages.plus)<br>
 [RecordsPedia](http://recordspedia.com/)<br>
 [Recruitem](http://recruitin.net/)<br>
 [Reunion](http://reunion.com/)<br>
@@ -475,22 +475,22 @@ These are ready to be imported directly into your browser, it will not remove an
 [USSearch](http://www.ussearch.com/)<br>
 [Virtual Gumshoe](http://www.virtualgumshoe.com/)<br>
 [WebMiii](http://www.webmii.com/)<br>
-[White Pages (US)<br>](http://www.whitepages.com/)<br>
+[White Pages (US)](http://www.whitepages.com/)<br>
 [Wink](http://itools.com/tool/wink-people-search)<br>
 [Yasni](http://www.yasni.com/)<br>
 [Zabasearch](http://www.zabasearch.com/)<br>
 [Zoominfo](http://www.zoominfo.com/)<br>
 ### Death Records
-[Grave Finder (US)<br>](https://www.findagrave.com/index.html)<br>
+[Grave Finder (US)](https://www.findagrave.com/index.html)<br>
 ### Arrests, Inmate & Court Search
-[Jailbase (US)<br>](http://www.jailbase.com/en/search/)<br>
-[Arrests (US)<br>](http://www.arrests.org/)<br>
+[Jailbase (US)](http://www.jailbase.com/en/search/)<br>
+[Arrests (US)](http://www.arrests.org/)<br>
 [Mugshots](http://mugshots.com/search.html?t=g&q=)<br>
-[Inmate Search (US)<br>](https://www.bop.gov/inmateloc/)<br>
-[Court Listener (US)<br>](https://www.courtlistener.com)<br>
-[Felon Spy (US)<br>](http://www.felonspy.com)<br>
-[Inmate Locator (US)<br>](http://theinmatelocator.com)<br>
-[Family Watchdog (US)<br>](http://www.familywatchdog.us)<br>
+[Inmate Search (US)](https://www.bop.gov/inmateloc/)<br>
+[Court Listener (US)](https://www.courtlistener.com)<br>
+[Felon Spy (US)](http://www.felonspy.com)<br>
+[Inmate Locator (US)](http://theinmatelocator.com)<br>
+[Family Watchdog (US)](http://www.familywatchdog.us)<br>
 ### Username Check
 [Check User Names](http://www.checkusernames.com/)<br>
 [Gaddr](https://gaddr.me/)<br>
@@ -529,7 +529,7 @@ These are ready to be imported directly into your browser, it will not remove an
 ### Instagram
 [Picodash](https://www.picodash.com/)<br>
 [Pixgram](www.pixgram.me)<br>
-[Websta (Instagram)<br>](http://websta.me/)<br>
+[Websta (Instagram)](http://websta.me/)<br>
 ### Twitter
 [AllMyTweets](https://www.allmytweets.net/connect/)<br>
 [Bioischanged](http://bioischanged.com/)<br>
@@ -640,23 +640,23 @@ These are ready to be imported directly into your browser, it will not remove an
 [Tagboard](https://tagboard.com/)<br>
 [UVRX](http://www.uvrx.com/social.html)<br>
 ### Major Social Networks
-[Draugiem (Latvia)<br>](https://www.draugiem.lv/)<br>
+[Draugiem (Latvia)](https://www.draugiem.lv/)<br>
 [Facebook](http://www.facebook.com/)<br>
 [Badoo](http://www.badoo.com/)<br>
-[Facenama (Iran)<br>](http://facenama.com/)<br>
+[Facenama (Iran)](http://facenama.com/)<br>
 [Google+](https://plus.google.com/)<br>
 [Instagram](https://www.instagram.com/)<br>
 [Linkedin](https://www.linkedin.com/)<br>
-[Mixi (Japan)<br>](https://mixi.jp/)<br>
-[Odnoklassniki (Russia)<br>](http://ok.ru/)<br>
+[Mixi (Japan)](https://mixi.jp/)<br>
+[Odnoklassniki (Russia)](http://ok.ru/)<br>
 [Pinterest](http://www.pinterest.com/)<br>
-[Qzone (China)<br>](http://qzone.qq.com/)<br>
+[Qzone (China)](http://qzone.qq.com/)<br>
 [Reddit](https://www.reddit.com/)<br>
-[Taringa (Latin America)<br>](http://www.taringa.net/)<br>
+[Taringa (Latin America)](http://www.taringa.net/)<br>
 [Tinder](https://www.gotinder.com/)<br>
 [Tumblr](https://www.tumblr.com/)<br>
 [Twitter](https://twitter.com/)<br>
-[Weibo (China)<br>](http://weibo.com/)<br>
+[Weibo (China)](http://weibo.com/)<br>
 [VKontakte](https://vk.com/)<br>
 [Xing](https://www.xing.com/)<br>
 ### Pastebins
@@ -689,7 +689,7 @@ These are ready to be imported directly into your browser, it will not remove an
 [MyWebSearch](http://home.mywebsearch.com/)<br>
 [Oscobo](https://oscobo.co.uk/)<br>
 [Polyfetch](http://www.polyfetch.com/)<br>
-[Parseek (Iran)<br>](http://www.parseek.com/)<br>
+[Parseek (Iran)](http://www.parseek.com/)<br>
 [Peeplo](http://www.peeplo.com/)<br>
 [Search.com](http://www.search.com/)<br>
 [SurfCanyon](http://www.surfcanyon.com/)<br>
@@ -716,7 +716,7 @@ These are ready to be imported directly into your browser, it will not remove an
 [FindTheCompany](http://www.findthecompany.com/)<br>
 [Digle](https://www.digle.com/)<br>
 [Google Custom Search](http://www.google.com/cse)<br>
-[Harmari (Unified Listings Search)<br>](https://www.harmari.com/search/unified)<br>
+[Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)<br>
 [Internet Archive](https://archive.org/)<br>
 [Million Short](https://millionshort.com/)<br>
 [WorldWideScience.org](http://worldwidescience.org/)<br>
@@ -742,22 +742,22 @@ These are ready to be imported directly into your browser, it will not remove an
 [WiinkZ](http://www.wiinkz.com/)<br>
 [Zapmeta](http://www.zapmeta.com/)<br>
 ### International Search Engines
-[Alleba (Philippines)<br>](http://www.alleba.com/)<br>
-[Ansearch (Australia)<br>](http://www.ansearch.com.au/)<br>
-[Baidu (China)<br>](http://www.baidu.com/)<br>
-[Daum (South Korea)<br>](http://www.daum.net/)<br>
-[Eniro (Sweden)<br>](http://www.eniro.se/)<br>
-[Goo (Japan)<br>](http://www.goo.ne.jp/)<br>
-[Najdsi (Slovenia)<br>](http://www.najdi.si/)<br>
-[Naver (South Korea)<br>](http://www.naver.com/)<br>
-[Onet.pl (Poland)<br>](http://www.onet.pl/)<br>
-[Orange (France)<br>](http://www.orange.fr/)<br>
-[Parseek (Iran)<br>](http://www.parseek.com/)<br>
-[SAPO (Portugal)<br>](http://www.sapo.pt/)<br>
-[Search.ch (Switzerland)<br>](http://www.search.ch/)<br>
-[Tiger.ch (Switzerland)<br>](http://www.tiger.ch/)<br>
-[Walla (Israel)<br>](http://www.walla.co.il/)<br>
-[Yandex (Russia)<br>](http://www.yandex.com/)<br>
+[Alleba (Philippines)](http://www.alleba.com/)<br>
+[Ansearch (Australia)](http://www.ansearch.com.au/)<br>
+[Baidu (China)](http://www.baidu.com/)<br>
+[Daum (South Korea)](http://www.daum.net/)<br>
+[Eniro (Sweden)](http://www.eniro.se/)<br>
+[Goo (Japan)](http://www.goo.ne.jp/)<br>
+[Najdsi (Slovenia)](http://www.najdi.si/)<br>
+[Naver (South Korea)](http://www.naver.com/)<br>
+[Onet.pl (Poland)](http://www.onet.pl/)<br>
+[Orange (France)](http://www.orange.fr/)<br>
+[Parseek (Iran)](http://www.parseek.com/)<br>
+[SAPO (Portugal)](http://www.sapo.pt/)<br>
+[Search.ch (Switzerland)](http://www.search.ch/)<br>
+[Tiger.ch (Switzerland)](http://www.tiger.ch/)<br>
+[Walla (Israel)](http://www.walla.co.il/)<br>
+[Yandex (Russia)](http://www.yandex.com/)<br>
 ### Document and Slides Search
 [Authorstream](http://www.authorstream.com/)<br>
 [Find-pdf-doc](http://www.findpdfdoc.com/)<br>
@@ -804,12 +804,12 @@ These are ready to be imported directly into your browser, it will not remove an
 ### Drones
 [Drone World](http://www.dronetheworld.com)<br>
 ### Vehicle
-[Reverse Genie(License Plate Search)<br>](http://www.reversegenie.com/plate.php)<br>
-[thatsthem (Vin Search)<br>](http://thatsthem.com/vin-search)<br>
-[Check That(Vin Search)<br>](https://www.checkthatvin.com/?action=pcheck)<br>
-[National Insurance Crime Bureau(Vin Search)<br>](https://www.nicb.org/theft_and_fraud_awareness/vincheck)<br>
-[Vehicle History (Make/Model & Vin Search)<br>](https://www.vehiclehistory.com/vehicle/land.php)<br>
-[Vehicle History (Plate Search)<br>](https://www.vehiclehistory.com/license-plate-search.php)<br>
+[Reverse Genie(License Plate Search)](http://www.reversegenie.com/plate.php)<br>
+[thatsthem (Vin Search)](http://thatsthem.com/vin-search)<br>
+[Check That(Vin Search)](https://www.checkthatvin.com/?action=pcheck)<br>
+[National Insurance Crime Bureau(Vin Search)](https://www.nicb.org/theft_and_fraud_awareness/vincheck)<br>
+[Vehicle History (Make/Model & Vin Search)](https://www.vehiclehistory.com/vehicle/land.php)<br>
+[Vehicle History (Plate Search)](https://www.vehiclehistory.com/license-plate-search.php)<br>
 ### Marine & Cargo Tracking
 [Marine Traffic](http://www.marinetraffic.com)<br>
 [Vessel Tracker](http://www.vesseltracker.com)<br>
@@ -820,8 +820,8 @@ These are ready to be imported directly into your browser, it will not remove an
 [Crusin](http://www.cruisin.me)<br>
 [Live Cruise Ship Tracker](http://www.livecruiseshiptracker.com)<br>
 [Cruise Mapper](http://www.cruisemapper.com)<br>
-[track-trace (Cargo)<br>](http://www.track-trace.com/container)<br>
-[container-tracking (Cargo)<br>](http://container-tracking.org)<br>
+[track-trace (Cargo)](http://www.track-trace.com/container)<br>
+[container-tracking (Cargo)](http://container-tracking.org)<br>
 ### Multi-Tools
 [Intel Techniques Tools](https://inteltechniques.com/menu.html)<br>
 [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)<br>
