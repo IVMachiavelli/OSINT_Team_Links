@@ -9,5 +9,4 @@ Slack Team: https://openosint.slack.com
 These are ready to be imported directly into your browser, it will not remove any bookmarks you already have.
 
 # Online
-You can also visit inteltechniques.com/ivmachiavelli
-             [inteltechniques.com/ivmachiavelli](http://inteltechniques.com/ivmachiavelli)
+You can also visit [inteltechniques.com/ivmachiavelli](http://inteltechniques.com/ivmachiavelli)
