@@ -13,7 +13,7 @@ These are ready to be imported directly into your browser, it will not remove an
 
 # Or Right Here
 ### Community
-[Open OSINT Team](https://openosint.slack.com/)
+[Open OSINT Team](https://openosint.slack.com/)<br>
 [Intel Techniques](https://inteltechniques.com)
 ### Real Estate
 [HomeMetry](https://homemetry.com/)
