@@ -1,13 +1,11 @@
 # OSINT Team
-For the Hackers, Journalists, Private Investigators, Sleuths, Sherlocks, and everyone in between.
+For the Hackers, Journalists, Private Investigators, Sleuths, Sherlocks, and everyone in between. <br>
 Slack Team Signup: https://openosint.signup.team
 Slack Team: https://openosint.slack.com
-###Install
-## bookmarks.html
-These are ready to be imported directly into your browser, it will not remove any bookmarks you already have.
-## On inteltechniques
-[inteltechniques.com/ivmachiavelli](http://inteltechniques.com/ivmachiavelli)<br>
-## Or Right Here
+
+## This collection is also on inteltechniques.com (Slightly behind this repo)
+[inteltechniques.com/ivmachiavelli](http://inteltechniques.com/ivmachiavelli)
+
 ### Community
 [Open OSINT Team](https://openosint.slack.com/)<br>
 [Intel Techniques](https://inteltechniques.com)<br>
