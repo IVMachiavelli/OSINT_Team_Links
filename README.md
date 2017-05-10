@@ -53,7 +53,6 @@ Slack Team: https://openosint.slack.com
 [Batchgeo](http://batchgeo.com/)<br>
 [Bing Maps](http://www.bing.com/maps)<br>
 [DualMaps](http://data.mashedworld.com/dualmaps/map.htm)<br>
-[Esri](http://www.esri.com/)<br>
 [Flash Earth](http://www.flashearth.com/)<br>
 [Follow Your World](https://followyourworld.appspot.com/)<br>
 [Google Earth](http://www.google.com/earth)<br>
