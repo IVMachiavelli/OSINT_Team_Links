@@ -44,6 +44,7 @@ Slack Team: https://openosint.slack.com
 ### Geospatial Research and Mapping Tools
 [Terra server](https://www.terraserver.com/)<br>
 [Old Maps](http://www.oldmapsonline.org)<br>
+[Map Devleopers](https://www.mapdevelopers.com/google-map-search.php)  
 [Mapillary](https://www.mapillary.com/)<br>
 [Land Information (NZ)](https://data.linz.govt.nz/data/)<br>
 [Great Lakes Wildlife](http://maps.glifwc.org/)<br>
