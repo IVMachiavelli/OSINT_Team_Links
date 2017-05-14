@@ -790,6 +790,7 @@ Slack Team: https://openosint.slack.com
 [Astronomy - Sun - Moon - Eclipses](https://www.timeanddate.com/astronomy/)<br>
 ### Flight Tracking
 [Plane Finder](https://planefinder.net/)<br>
+[Plane Spotter](https://www.planespotters.net/)<br>
 [Flight Aware](http://flightaware.com/)<br>
 [Flight Radar 24](http://flightradar24.com)<br>
 [Airport Webcams](http://airportwebcams.net/)<br>
