@@ -1,5 +1,5 @@
 # OSINT Team
-For the Hackers, Journalists, Private Investigators, Sleuths, Sherlocks, and everyone in between. <br>
+For the Hackers, Threat Intelligence, Journalists, Private Investigators, Sleuths, Sherlocks, Business Intelligence and everyone in between. <br>
 Slack Team Signup: https://openosint.signup.team
 Slack Team: https://openosint.slack.com
 
@@ -12,6 +12,7 @@ Slack Team: https://openosint.slack.com
 ### Real Estate
 [HomeMetry](https://homemetry.com/)<br>
 [Arivify](https://www.arivify.com)<br>
+[EasyStreet](http://streeteasy.com)<br>
 ### Social Network Analysis
 [Gephi](https://gephi.org/)<br>
 [NodeXL](http://nodexl.codeplex.com/)<br>
