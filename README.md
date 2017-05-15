@@ -44,6 +44,7 @@ Slack Team: https://openosint.slack.com
 [Wiki Leaks](https://wikileaks.org/)<br>
 ### Geospatial Research and Mapping Tools
 [Terra server](https://www.terraserver.com/)<br>
+[Terra pattern](https://www.terrapattern.com/)<br>
 [Old Maps](http://www.oldmapsonline.org)<br>
 [Map Devleopers](https://www.mapdevelopers.com/google-map-search.php)  
 [Mapillary](https://www.mapillary.com/)<br>
