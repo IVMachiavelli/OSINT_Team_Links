@@ -811,10 +811,11 @@ Slack Team: https://openosint.slack.com
 [Reverse Genie(License Plate Search)](http://www.reversegenie.com/plate.php)<br>
 [thatsthem (Vin Search)](http://thatsthem.com/vin-search)<br>
 [Check That(Vin Search)](https://www.checkthatvin.com/?action=pcheck)<br>
-[Vin Coderz(Vin Search)](https://www.vindecoderz.com/)<br>
+[Vin decoderz(Vin Search)](https://www.vindecoderz.com/)<br>
 [National Insurance Crime Bureau(Vin Search)](https://www.nicb.org/theft_and_fraud_awareness/vincheck)<br>
 [Vehicle History (Make/Model & Vin Search)](https://www.vehiclehistory.com/vehicle/land.php)<br>
 [Vehicle History (Plate Search)](https://www.vehiclehistory.com/license-plate-search.php)<br>
+[auto bid master (auction)](http://www.autobidmaster.com/)<br>
 ### Marine & Cargo Tracking
 [Marine Traffic](http://www.marinetraffic.com)<br>
 [Vessel Tracker](http://www.vesseltracker.com)<br>
