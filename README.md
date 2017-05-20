@@ -816,6 +816,7 @@ Slack Team: https://openosint.slack.com
 [Vehicle History (Make/Model & Vin Search)](https://www.vehiclehistory.com/vehicle/land.php)<br>
 [Vehicle History (Plate Search)](https://www.vehiclehistory.com/license-plate-search.php)<br>
 [auto bid master (auction)](http://www.autobidmaster.com/)<br>
+[copart (auction)](https://www.copart.com)<br>
 ### Marine & Cargo Tracking
 [Marine Traffic](http://www.marinetraffic.com)<br>
 [Vessel Tracker](http://www.vesseltracker.com)<br>
