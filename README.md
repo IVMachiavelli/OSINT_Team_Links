@@ -210,7 +210,6 @@ Slack Team: https://openosint.slack.com
 [BuiltWith](http://builtwith.com/)<br>
 [Central Ops](http://centralops.net/)<br>
 [Dedicated or Not](http://dedicatedornot.com/)<br>
-[Compete.com](https://www.compete.com/)<br>
 [DNSDumpster](https://dnsdumpster.com/)<br>
 [DNS History](http://dnshistory.org/)<br>
 [DNSStuff](http://www.dnsstuff.com/)<br>
