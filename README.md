@@ -115,7 +115,6 @@ Slack Team: https://openosint.slack.com
 [Exif Search](http://www.exif-search.com/)<br>
 [FotoForensics](http://www.fotoforensics.com/)<br>
 [Gbimg.org](http://gbimg.org/)<br>
-[ImpulseAdventure](http://www.impulseadventure.com/photo/jpeg-snoop.html)<br>
 [Izitru](http://www.izitru.com/)<br>
 [Jeffreys Image Metadata Viewer](http://regex.info//exif.cgi)<br>
 [JPEGsnoop](https://sourceforge.net/projects/jpegsnoop)<br>
@@ -812,10 +811,10 @@ Slack Team: https://openosint.slack.com
 [Block Explorer](https://blockexplorer.com)<br>
 [Blockonomics](https://www.blockonomics.co)<br>
 ### Vehicle
-[Reverse Genie(License Plate Search)](http://www.reversegenie.com/plate.php)<br>
+[Reverse Genie (License Plate Search)](http://www.reversegenie.com/plate.php)<br>
 [thatsthem (Vin Search)](http://thatsthem.com/vin-search)<br>
-[Check That(Vin Search)](https://www.checkthatvin.com/?action=pcheck)<br>
-[Vin decoderz(Vin Search)](https://www.vindecoderz.com/)<br>
+[Check That (Vin Search)](https://www.checkthatvin.com/?action=pcheck)<br>
+[Vin decoderz (Vin Search)](https://www.vindecoderz.com/)<br>
 [National Insurance Crime Bureau(Vin Search)](https://www.nicb.org/theft_and_fraud_awareness/vincheck)<br>
 [Vehicle History (Make/Model & Vin Search)](https://www.vehiclehistory.com/vehicle/land.php)<br>
 [Vehicle History (Plate Search)](https://www.vehiclehistory.com/license-plate-search.php)<br>
