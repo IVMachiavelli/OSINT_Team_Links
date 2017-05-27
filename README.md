@@ -326,7 +326,6 @@ Slack Team: https://openosint.slack.com
 [Hoovers](http://www.hoovers.com/)<br>
 [Inc. 5000](http://www.inc.com/inc5000)<br>
 [InstantLogoSearch](http://instantlogosearch.com/)<br>
-[iSpionage](https://www.ispionage.com/)<br>
 [Linkedin](https://www.linkedin.com/)<br>
 [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)<br>
 [MarketVisual](http://www.marketvisual.com/)<br>
