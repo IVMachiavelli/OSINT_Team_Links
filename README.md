@@ -43,7 +43,6 @@ Slack Team: https://openosint.slack.com
 [Crytome](https://cryptome.org/)<br>
 [Wiki Leaks](https://wikileaks.org/)<br>
 [Database Today](https://www.databases.today)<br>
-[hacked-emails](https://hacked-emails.com/check_email)<br>
 ### Geospatial Research and Mapping Tools
 [Terra server](https://www.terraserver.com/)<br>
 [Terra pattern](http://www.terrapattern.com/)<br>
@@ -375,6 +374,7 @@ Slack Team: https://openosint.slack.com
 [Sources](http://www.sources.com/)<br>
 [TRExpertWitness](https://trexpertwitness.com/)<br>
 ### E-mail Search / E-mail Check
+[hacked-emails](https://hacked-emails.com/check_email)<br>
 [Breach OR Clear](http://breachorclear.jesterscourt.cc/)<br>
 [BriteVerify Email Verification](http://www.briteverify.co.uk/)<br>
 [Email Address Validator](http://www.email-validator.net/)<br>
