@@ -402,6 +402,7 @@ Slack Team: https://openosint.slack.com
 [Next Caller](https://nextcaller.com/)<br>
 ### People Investigations
 [Profile Engine](http://profileengine.com/)<br>
+[UVRX](http://www.uvrx.com/social.html)<br>
 [LittleSis](https://littlesis.org/)<br>
 [True People Search](https://www.truepeoplesearch.com/)<br>
 [Private Eye](https://www.privateeye.com)<br>
@@ -621,7 +622,6 @@ Slack Team: https://openosint.slack.com
 [Social Mention](http://socialmention.com/)<br>
 [Social Searcher](http://www.social-searcher.com/)<br>
 [Tagboard](https://tagboard.com/)<br>
-[UVRX](http://www.uvrx.com/social.html)<br>
 ### Major Social Networks
 [Draugiem (Latvia)](https://www.draugiem.lv/)<br>
 [Facebook](http://www.facebook.com/)<br>
