@@ -610,7 +610,6 @@ Slack Team: https://openosint.slack.com
 [Cyfe](http://www.cyfe.com/)<br>
 [Flumes](http://flumes.com/)<br>
 [Gaddr](https://gaddr.me/)<br>
-[Geocreepy](http://www.geocreepy.com/)<br>
 [Geofeedia](https://geofeedia.com/)<br>
 [Hootsuite](http://hootsuite.com/)<br>
 [HowSociable](http://www.howsociable.com/)<br>
