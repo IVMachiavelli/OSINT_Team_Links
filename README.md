@@ -618,7 +618,6 @@ Slack Team: https://openosint.slack.com
 [Klout](http://klout.com/)<br>
 [Netvibes](http://www.netvibes.com/)<br>
 [OpinionCrawl](http://www.opinioncrawl.com/)<br>
-[Rival IQ](https://www.rivaliq.com/)<br>
 [SmashFuse](http://smashfuse.com/)<br>
 [SociaBlade](http://socialblade.com/)<br>
 [Social DownORNot](http://social.downornot.com/)<br>
