@@ -278,7 +278,6 @@ Slack Team: https://openosint.slack.com
 [CareerBuilder](http://www.careerbuilder.com/)<br>
 [College Recruiter](https://www.collegerecruiter.com/)<br>
 [Craiglist](http://losangeles.craigslist.org/)<br>
-[CVFox](http://www.cvfox.com/)<br>
 [Dice](http://www.dice.com/)<br>
 [Eluta (Canada)](http://www.eluta.ca/)<br>
 [Eurojobs](https://www.eurojobs.com/)<br>
