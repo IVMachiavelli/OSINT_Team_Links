@@ -506,7 +506,6 @@ Slack Team: https://openosint.slack.com
 [VK Community Search](http://vk.com/communities)<br>
 [VK People Search](http://vk.com/people)<br>
 [VK to RSS Appspot](http://vk-to-rss.appspot.com/)<br>
-[Yomapic](http://www.yomapic.com/)<br>
 ### Reddit
 [Imgur](http://imgur.com/)<br>
 [Metareddit](http://metareddit.com/)<br>
