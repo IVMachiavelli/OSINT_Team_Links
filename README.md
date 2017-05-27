@@ -620,7 +620,6 @@ Slack Team: https://openosint.slack.com
 [OpinionCrawl](http://www.opinioncrawl.com/)<br>
 [SmashFuse](http://smashfuse.com/)<br>
 [SociaBlade](http://socialblade.com/)<br>
-[Social DownORNot](http://social.downornot.com/)<br>
 [Social Mention](http://socialmention.com/)<br>
 [Social Searcher](http://www.social-searcher.com/)<br>
 [Tagboard](https://tagboard.com/)<br>
