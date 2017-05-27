@@ -393,7 +393,6 @@ Slack Team: https://openosint.slack.com
 [ThatsThem](https://thatsthem.com/reverse-email-lookup)<br>
 [Toofr](https://www.toofr.com/)<br>
 [Verify Email](http://verify-email.org/)<br>
-[VoilaNorbert](https://www.voilanorbert.com/)<br>
 ### Phone Numbers
 [sync me](https://sync.me/)<br>
 [True Caller](https://www.truecaller.com/)<br>
