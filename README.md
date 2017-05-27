@@ -607,7 +607,6 @@ Slack Team: https://openosint.slack.com
 [Addict-o-matic](http://addictomatic.com/)<br>
 [Buzz sumo](http://buzzsumo.com/)<br>
 [Cyfe](http://www.cyfe.com/)<br>
-[Flumes](http://flumes.com/)<br>
 [Gaddr](https://gaddr.me/)<br>
 [Geofeedia](https://geofeedia.com/)<br>
 [Hootsuite](http://hootsuite.com/)<br>
