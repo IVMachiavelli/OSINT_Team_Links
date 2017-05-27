@@ -656,7 +656,6 @@ Slack Team: https://openosint.slack.com
 ### Code Search
 [NerdyData](https://search.nerdydata.com/)<br>
 [SearchCode](https://searchcode.com/)<br>
-[Krugle](http://www.krugle.com)<br>
 ### General Search
 [Advangle](http://advangle.com/)<br>
 [Aol](http://search.aol.com/)<br>
