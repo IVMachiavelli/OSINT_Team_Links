@@ -616,7 +616,6 @@ Slack Team: https://openosint.slack.com
 [Hashtatit](http://www.hashatit.com/)<br>
 [Klear](http://klear.com/)<br>
 [Klout](http://klout.com/)<br>
-[MustBePresent](http://mustbepresent.com/)<br>
 [Netvibes](http://www.netvibes.com/)<br>
 [OpinionCrawl](http://www.opinioncrawl.com/)<br>
 [Rival IQ](https://www.rivaliq.com/)<br>
