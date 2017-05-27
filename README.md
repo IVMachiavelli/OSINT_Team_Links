@@ -755,7 +755,6 @@ Slack Team: https://openosint.slack.com
 [Offshore Leak Database](https://offshoreleaks.icij.org/)<br>
 [PasteLert](http://andrewmohawk.com/pasteLert/index.php)<br>
 [PDF Search Engine](http://www.pdfsearchengine.info/)<br>
-[PDFgeni](http://www.pdfgeni.com/)<br>
 [PDFgive](http://pdfgive.net/)<br>
 [PDFSB](http://pdfsb.net/)<br>
 [PDFSR](http://pdfsr.com/)<br>
