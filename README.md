@@ -615,7 +615,6 @@ Slack Team: https://openosint.slack.com
 [Hootsuite](http://hootsuite.com/)<br>
 [HowSociable](http://www.howsociable.com/)<br>
 [Hashtatit](http://www.hashatit.com/)<br>
-[Icerocket](http://www.icerocket.com/)<br>
 [Klear](http://klear.com/)<br>
 [Klout](http://klout.com/)<br>
 [MustBePresent](http://mustbepresent.com/)<br>
