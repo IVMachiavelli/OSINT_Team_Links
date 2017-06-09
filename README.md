@@ -296,7 +296,6 @@ Slack Team: https://openosint.slack.com
 [Central and Eastern European Business Directory](http://www.ceebd.co.uk/ceebd)<br>
 [Company Registration Round the World](http://www.commercial-register.sg.ch/home/worldwide.html)<br>
 [Company Research Resources by Country Comparably](https://www.comparably.com/)<br>
-[CompeteShark](http://competeshark.com/)<br>
 [Corporate Information](http://www.corporateinformation.com/)<br>
 [CrunchBase](https://www.crunchbase.com/)<br>
 [Data.com Connect](https://connect.data.com/)<br>
