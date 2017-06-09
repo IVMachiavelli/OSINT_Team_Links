@@ -13,11 +13,6 @@ Slack Team: https://openosint.slack.com
 [HomeMetry](https://homemetry.com/)<br>
 [Arivify](https://www.arivify.com)<br>
 [EasyStreet](http://streeteasy.com)<br>
-### Web Automation
-[Dropbox](http://wappwolf.com/dropboxautomator)<br>
-[IFTTT](https://ifttt.com/)<br>
-[Sikuli](http://www.sikuli.org/)<br>
-[WeWiredWeb](https://wewiredweb.com/)<br>
 ### Stolen Property
 [Art Loss (Stolen Art)](http://www.artloss.com)<br>
 [iamstolen (UK)](http://www.iamstolen.com/)<br>
