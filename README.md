@@ -447,7 +447,6 @@ Slack Team: https://openosint.slack.com
 [Switchboard](http://www.switchboard.com/)<br>
 [That’sThem](https://thatsthem.com/)<br>
 [USSearch](http://www.ussearch.com/)<br>
-[WebMiii](http://www.webmii.com/)<br>
 [White Pages (US)](http://www.whitepages.com/)<br>
 [Wink](http://itools.com/tool/wink-people-search)<br>
 [Yasni](http://www.yasni.com/)<br>
