@@ -110,7 +110,7 @@ Slack Team: https://openosint.slack.com
 [free-ocr.com](free-ocr.com)<br>
 ### Image Search
 [Baidu Images](http://image.baidu.com/)<br>
-[Bing Images](http://www.bing.com/images)<br>
+[imgops](http://imgops.com/)<br>
 [Clarify](http://clarify.io/)<br>
 [Flickr](https://secure.flickr.com/)<br>
 [GoodSearch Image Search](http://www.goodsearch.com/search-image)<br>
