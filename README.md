@@ -346,7 +346,6 @@ Slack Team: https://openosint.slack.com
 [Idealist](http://www.idealist.org/)<br>
 [Innocentive](http://www.innocentive.com/)<br>
 [Internet Experts](http://www.internetexperts.info/)<br>
-[Maven](http://www.maven.co/)<br>
 [MuckRack](http://muckrack.com/)<br>
 [National Speakers Association](http://www.nsaspeaker.org/)<br>
 [Newswise](http://www.newswise.com/)<br>
