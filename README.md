@@ -341,7 +341,6 @@ Slack Team: https://openosint.slack.com
 [Experts.com](http://www.experts.com/)<br>
 [HARO](http://www.helpareporter.com/)<br>
 [ExpertPages](http://expertpages.com/)<br>
-[HerSay](http://www.hersay.co.uk/)<br>
 [GlobalExperts](http://www.theglobalexperts.org/)<br>
 [Idealist](http://www.idealist.org/)<br>
 [Innocentive](http://www.innocentive.com/)<br>
