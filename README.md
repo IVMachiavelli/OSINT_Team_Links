@@ -291,7 +291,6 @@ Slack Team: https://openosint.slack.com
 [Biznar](http://biznar.com/biznar/desktop/en/lightblue/search.html)<br>
 [Bloomberg](http://www.bloomberg.com/research/company/overview/overview.asp)<br>
 [Business Source](https://www.ebscohost.com/academic/business-source-complete)<br>
-[Bureau Van Dijk](http://www.bvdinfo.com/)<br>
 [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)<br>
 [Canadian Business Resource](http://www.cbr.ca/)<br>
 [Central and Eastern European Business Directory](http://www.ceebd.co.uk/ceebd)<br>
