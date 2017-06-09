@@ -648,7 +648,6 @@ Slack Team: https://openosint.slack.com
 [Lycos](http://www.lycos.com/)<br>
 [Mojeek](http://www.mojeek.com/)<br>
 [MyWebSearch](http://home.mywebsearch.com/)<br>
-[Oscobo](https://oscobo.co.uk/)<br>
 [Parseek (Iran)](http://www.parseek.com/)<br>
 [Peeplo](http://www.peeplo.com/)<br>
 [Search.com](http://www.search.com/)<br>
