@@ -433,7 +433,6 @@ Slack Team: https://openosint.slack.com
 [PeopleSearch.net](http://www.peoplesearch.net/)<br>
 [Pipl](https://pipl.com/)<br>
 [WhitePages Plus (pipl)](https://whitepages.plus)<br>
-[RecordsPedia](http://recordspedia.com/)<br>
 [Recruitem](http://recruitin.net/)<br>
 [Reunion](http://reunion.com/)<br>
 [Rootsweb](http://home.rootsweb.ancestry.com/)<br>
