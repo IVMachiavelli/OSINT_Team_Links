@@ -366,7 +366,6 @@ Slack Team: https://openosint.slack.com
 [EmailHippo](https://tools.verifyemailaddress.io/)<br>
 [Email Hunter](https://emailhunter.co/)<br>
 [Email Permutator+](http://metricsparrow.com/toolkit/email-permutator)<br>
-[Emails4corporations](https://sites.google.com/site/emails4corporations/home)<br>
 [Email Validator](https://chema.ga/emailvalidator/index.php)<br>
 [Email Validator Tool](http://e-mailvalidator.com/)<br>
 [Have I Been Pwned](https://haveibeenpwned.com/)<br>
