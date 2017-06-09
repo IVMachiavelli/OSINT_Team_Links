@@ -346,7 +346,6 @@ Slack Team: https://openosint.slack.com
 [Idealist](http://www.idealist.org/)<br>
 [Innocentive](http://www.innocentive.com/)<br>
 [Internet Experts](http://www.internetexperts.info/)<br>
-[Library of Congress: Ask a Librarian](http://www.loc.gov/rr/askalib)<br>
 [Maven](http://www.maven.co/)<br>
 [MuckRack](http://muckrack.com/)<br>
 [National Speakers Association](http://www.nsaspeaker.org/)<br>
