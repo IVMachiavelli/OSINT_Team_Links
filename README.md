@@ -299,7 +299,6 @@ Slack Team: https://openosint.slack.com
 [Company Research Resources by Country Comparably](https://www.comparably.com/)<br>
 [Corporate Information](http://www.corporateinformation.com/)<br>
 [CrunchBase](https://www.crunchbase.com/)<br>
-[Data.com Connect](https://connect.data.com/)<br>
 [EDGAR Online](http://www.edgar-online.com/)<br>
 [Europages](http://www.europages.co.uk/)<br>
 [European Business Register](http://www.ebr.org/)<br>
