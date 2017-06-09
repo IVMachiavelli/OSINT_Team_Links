@@ -102,6 +102,7 @@ Slack Team: https://openosint.slack.com
 [EXIFviewer.org](http://www.exifviewer.org/)<br>
 [Exif Search](http://www.exif-search.com/)<br>
 [FotoForensics](http://www.fotoforensics.com/)<br>
+[imgops](http://imgops.com/)<br>
 [Gbimg.org](http://gbimg.org/)<br>
 [Izitru](http://www.izitru.com/)<br>
 [Jeffreys Image Metadata Viewer](http://regex.info//exif.cgi)<br>
@@ -112,6 +113,7 @@ Slack Team: https://openosint.slack.com
 ### Image Search
 [Baidu Images](http://image.baidu.com/)<br>
 [imgops](http://imgops.com/)<br>
+[imgur](http://imgur.com/)<br>
 [Clarify](http://clarify.io/)<br>
 [Flickr](https://secure.flickr.com/)<br>
 [GoodSearch Image Search](http://www.goodsearch.com/search-image)<br>
