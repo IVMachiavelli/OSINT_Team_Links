@@ -176,7 +176,6 @@ Slack Team: https://openosint.slack.com
 [Wayback Machine](http://archive.org/web/web.php)<br>
 [Wayback Machine Downloader](https://websitedownloader.io/wayback-machine-downloader)<br>
 ### Keywords Discovery and Research
-[Google Adwords](http://adwords.google.com/)<br>
 [Google Keyword Suggest Tool](http://tools.seochat.com/tools/suggest-tool)<br>
 [Google Trends](https://www.google.com/trends)<br>
 [KeywordTool](http://keywordtool.io/)<br>
