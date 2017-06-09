@@ -329,7 +329,7 @@ Slack Team: https://openosint.slack.com
 [Internet Marketing Ninjas](https://www.internetmarketingninjas.com)<br>
 [Xing](http://www.xing.com/)<br>
 [Site Liner](http://www.siteliner.com/)<br>
-### Keywords Discovery and Research
+### Events
 [Wherevent (worldwide)<br>](http://www.wherevent.com/)<br>
 ### Expert Search
 [Academia](http://academia.edu/)<br>
@@ -368,7 +368,6 @@ Slack Team: https://openosint.slack.com
 [Email Validator Tool](http://e-mailvalidator.com/)<br>
 [Have I Been Pwned](https://haveibeenpwned.com/)<br>
 [MailTester](http://mailtester.com/testmail.php)<br>
-[Pipl](https://pipl.com/)<br>
 [ReverseGenie](http://www.reversegenie.com/email.php)<br>
 [TCIPUTILS.com Email Test](http://www.tcpiputils.com/email-test)<br>
 [ThatsThem](https://thatsthem.com/reverse-email-lookup)<br>
