@@ -70,7 +70,6 @@ Slack Team: https://openosint.slack.com
 [Aol Videos](http://on.aol.com/)<br>
 [Bing Videos](http://www.bing.com/?scope=video)<br>
 [Blinkx](http://www.blinkx.com/)<br>
-[Clarify](http://clarify.io/)<br>
 [Clip Blast](http://www.clipblast.com/)<br>
 [DailyMotion](http://www.dailymotion.com/)<br>
 [Internet Archive: Open Source Videos](https://archive.org/details/opensource_movies)<br>
