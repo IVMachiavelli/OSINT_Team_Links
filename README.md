@@ -522,6 +522,8 @@ Slack Team: https://openosint.slack.com
 [Picodash](https://www.picodash.com/)<br>
 [Pixgram](www.pixgram.me)<br>
 [Websta (Instagram)](http://websta.me/)<br>
+### Telegram
+[tchannels](https://tchannels.me)<br>
 ### Twitter
 [AllMyTweets](https://www.allmytweets.net/connect/)<br>
 [Bioischanged](http://bioischanged.com/)<br>
@@ -688,7 +690,6 @@ Slack Team: https://openosint.slack.com
 [Carrot2](http://search.carrot2.org/)<br>
 [EntityCube](http://entitycube.research.microsoft.com/)<br>
 [Cluuz](http://www.cluuz.com/)<br>
-[Touchgraph](http://www.touchgraph.com/)<br>
 [Yippy](http://yippy.com/)<br>
 ### Specialty Search Engines
 [2lingual Search](http://www.2lingual.com/)<br>
