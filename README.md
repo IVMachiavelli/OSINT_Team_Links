@@ -13,12 +13,6 @@ Slack Team: https://openosint.slack.com
 [HomeMetry](https://homemetry.com/)<br>
 [Arivify](https://www.arivify.com)<br>
 [EasyStreet](http://streeteasy.com)<br>
-### Social Network Analysis
-[Gephi](https://gephi.org/)<br>
-[NodeXL](http://nodexl.codeplex.com/)<br>
-[ORA](http://www.casos.cs.cmu.edu/projects/ora/software.php)<br>
-[Sentinel Visualizer](http://www.fmsasg.com/)<br>
-[Visual Investigative Scenarios](https://vis.occrp.org/)<br>
 ### Web Automation
 [Dropbox](http://wappwolf.com/dropboxautomator)<br>
 [IFTTT](https://ifttt.com/)<br>
