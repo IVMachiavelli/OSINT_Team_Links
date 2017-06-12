@@ -388,6 +388,7 @@ Slack Team: https://openosint.slack.com
 [LittleSis](https://littlesis.org/)<br>
 [True People Search](https://www.truepeoplesearch.com/)<br>
 [Private Eye](https://www.privateeye.com)<br>
+[Locate Family](http://www.locatefamily.com)<br>
 [Recruitin](https://recruitin.net)<br>
 [DOB Search](https://www.dobsearch.com)<br>
 [Ohio Resident DB](https://ohioresidentdb.com)<br>
