@@ -35,6 +35,7 @@ Slack Team: https://openosint.slack.com
 [Database Today](https://www.databases.today)<br>
 ### Geospatial Research and Mapping Tools
 [Terra server](https://www.terraserver.com/)<br>
+[Free Map Tools](https://www.freemaptools.com)<br>
 [Terra pattern](http://www.terrapattern.com/)<br>
 [Old Maps](http://www.oldmapsonline.org)<br>
 [Map Devleopers](https://www.mapdevelopers.com/google-map-search.php)  
