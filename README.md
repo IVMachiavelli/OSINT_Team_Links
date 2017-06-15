@@ -501,7 +501,6 @@ Slack Team: https://openosint.slack.com
 [Reddit Investigator](http://www.redditinvestigator.com/)<br>
 [Reddit Metrics](http://redditmetrics.com/)<br>
 [SnoopSnoo](http://snoopsnoo.com/)<br>
-[Reddit Lurker](http://redditlurker.com)<br>
 ### Pinterest
 [Pingroupie](http://pingroupie.com/)<br>
 ### Instagram
