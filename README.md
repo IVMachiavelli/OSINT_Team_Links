@@ -113,6 +113,7 @@ Slack Team: https://openosint.slack.com
 [Lunapic](http://www194.lunapic.com/editor)<br>
 [free-ocr.com](free-ocr.com)<br>
 ### Image Search
+[loc.alize](https://loc.alize.us)<br>
 [Baidu Images](http://image.baidu.com/)<br>
 [imgops](http://imgops.com/)<br>
 [imgur](http://imgur.com/)<br>
