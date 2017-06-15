@@ -117,6 +117,7 @@ Slack Team: https://openosint.slack.com
 [Image Brief](http://www.imagebrief.com)<br>
 [Small Seo Tools](http://smallseotools.com/reverse-image-search/)<br>
 [Baidu Images](http://image.baidu.com/)<br>
+[Ezgif](https://ezgif.com/reverse)<br>
 [imgops](http://imgops.com/)<br>
 [imgur](http://imgur.com/)<br>
 [Clarify](http://clarify.io/)<br>
