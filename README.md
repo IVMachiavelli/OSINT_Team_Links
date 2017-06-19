@@ -394,6 +394,7 @@ Slack Team: https://openosint.slack.com
 ### People Investigations
 [Profile Engine](http://profileengine.com/)<br>
 [Catfish](https://socialcatfish.com)<br>
+[Transparent California](http://transparentcalifornia.com)<br>
 [LittleSis](https://littlesis.org/)<br>
 [True People Search](https://www.truepeoplesearch.com/)<br>
 [Private Eye](https://www.privateeye.com)<br>
