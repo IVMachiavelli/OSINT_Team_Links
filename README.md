@@ -393,6 +393,7 @@ Slack Team: https://openosint.slack.com
 [Next Caller](https://nextcaller.com/)<br>
 ### People Investigations
 [Profile Engine](http://profileengine.com/)<br>
+[Catfish](https://socialcatfish.com)<br>
 [LittleSis](https://littlesis.org/)<br>
 [True People Search](https://www.truepeoplesearch.com/)<br>
 [Private Eye](https://www.privateeye.com)<br>
@@ -503,6 +504,7 @@ Slack Team: https://openosint.slack.com
 [Reddit Metrics](http://redditmetrics.com/)<br>
 [SnoopSnoo](http://snoopsnoo.com/)<br>
 [Redective](http://www.redective.com/)<br>
+[Redditlist](http://redditlist.com/)<br>
 ### Pinterest
 [Pingroupie](http://pingroupie.com/)<br>
 ### Instagram
