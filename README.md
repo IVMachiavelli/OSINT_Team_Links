@@ -369,7 +369,6 @@ Slack Team: https://openosint.slack.com
 ### E-mail Search / E-mail Check
 [hacked-emails](https://hacked-emails.com/check_email)<br>
 [Spy Dialer](http://www.spydialer.com/)<br>
-[Breach OR Clear](http://breachorclear.jesterscourt.cc/)<br>
 [BriteVerify Email Verification](http://www.briteverify.co.uk/)<br>
 [Email Address Validator](http://www.email-validator.net/)<br>
 [Email Format](http://email-format.com/)<br>
