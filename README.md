@@ -385,6 +385,8 @@ Slack Team: https://openosint.slack.com
 [ThatsThem](https://thatsthem.com/reverse-email-lookup)<br>
 [Toofr](https://www.toofr.com/)<br>
 [Verify Email](http://verify-email.org/)<br>
+# Scam Emails
+[Scamdex](http://www.scamdex.com)<br>
 ### Phone Numbers
 [sync me](https://sync.me/)<br>
 [True Caller](https://www.truecaller.com/)<br>
