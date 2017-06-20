@@ -214,6 +214,7 @@ Slack Team: https://openosint.slack.com
 [Search Metrics](https://suite.searchmetrics.com/en/research)<br>
 [DNS Trail](http://dnstrails.com/)<br>
 [DNSViz](http://dnsviz.net/)<br>
+[Fraud Guard](https://fraudguard.io)<br>
 [Domain Big Data](http://domainbigdata.com/)<br>
 [Domain Dossier](http://centralops.net/co/DomainDossier.aspx)<br>
 [Domain Crawler](http://www.domaincrawler.com/)<br>
