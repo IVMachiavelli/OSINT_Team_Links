@@ -819,3 +819,4 @@ Slack Team: https://openosint.slack.com
 [Amazon Wish List Search](www.amazon.com/gp/registry/search)<br>
 ### Link Checking
 [Virus Total](https://www.virustotal.com/en/)<br>
+[Phish Tank](https://www.phishtank.com/)<br>
