@@ -472,6 +472,7 @@ Slack Team: https://openosint.slack.com
 ### Death Records
 [Grave Finder (US)](https://www.findagrave.com/index.html)<br>
 ### Arrests, Inmate & Court Search
+[InmateAid (US)](https://www.inmateaid.com)<br>
 [Jailbase (US)](http://www.jailbase.com/en/search/)<br>
 [Arrests (US)](http://www.arrests.org/)<br>
 [Mugshots](http://mugshots.com/search.html?t=g&q=)<br>
