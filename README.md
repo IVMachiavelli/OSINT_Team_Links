@@ -259,7 +259,6 @@ Slack Team: https://openosint.slack.com
 [SEMrush](https://www.semrush.com/)<br>
 [SEO Chat Tools](http://tools.seochat.com/)<br>
 [SEOTools for Excel](http://seotoolsforexcel.com/)<br>
-[Similar Web](https://www.similarweb.com/)<br>
 [SmallSEOTools](http://smallseotools.com/)<br>
 [StatsCrop](http://www.statscrop.com/)<br>
 [TCPIPUTILS.com](http://www.tcpiputils.com/)<br>
