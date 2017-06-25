@@ -3,6 +3,13 @@ For the Hackers, Threat Intelligence, Journalists, Private Investigators, Sleuth
 Slack Team Signup: https://openosint.signup.team
 Slack Team: https://openosint.slack.com
 
+## Contribute
+1. Make sure it's the full url to the usable search feature and not just the home page.
+2. No paid websites or software that needs to be downloaded.
+3. Please update both the README.md and backup.html
+4. If you found a dead link please use 404 in commit message, see example.</br>
+(git commit -m '404')
+
 ## This collection is also on inteltechniques.com (Slightly behind this repo)
 [inteltechniques.com/ivmachiavelli](http://inteltechniques.com/ivmachiavelli)
 
