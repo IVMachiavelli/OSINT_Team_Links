@@ -258,7 +258,6 @@ Slack Team: https://openosint.slack.com
 [SameID](http://sameid.net/)<br>
 [SEMrush](https://www.semrush.com/)<br>
 [SEO Chat Tools](http://tools.seochat.com/)<br>
-[SEOTools for Excel](http://seotoolsforexcel.com/)<br>
 [SmallSEOTools](http://smallseotools.com/)<br>
 [StatsCrop](http://www.statscrop.com/)<br>
 [TCPIPUTILS.com](http://www.tcpiputils.com/)<br>
