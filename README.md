@@ -791,6 +791,7 @@ Slack Team: https://openosint.slack.com
 [Blockonomics](https://www.blockonomics.co)<br>
 ### Vehicle
 [Reverse Genie (License Plate Search)](http://www.reversegenie.com/plate.php)<br>
+[Autowini (Vin Search International)](http://www.autowini.com)<br>
 [thatsthem (Vin Search)](http://thatsthem.com/vin-search)<br>
 [All Vehicle Data](http://www.allvehicledata.com/)<br>
 [Check That (Vin Search)](https://www.checkthatvin.com/?action=pcheck)<br>
