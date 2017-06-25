@@ -813,6 +813,7 @@ Slack Team: https://openosint.slack.com
 [Cruise Mapper](http://www.cruisemapper.com)<br>
 [track-trace (Cargo)](http://www.track-trace.com/container)<br>
 [container-tracking (Cargo)](http://container-tracking.org)<br>
+[Panjiva (Cargo)](https://panjiva.com/search)<br>
 ### Multi-Tools
 [Intel Techniques Tools](https://inteltechniques.com/menu.html)<br>
 [DMI Tools](https://wiki.digitalmethods.net/Dmi/ToolDatabase)<br>
