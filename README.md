@@ -423,10 +423,9 @@ Slack Team: https://openosint.slack.com
 [Florida Resident DB](https://floridaresidentdb.com/)<br>
 [Starving Farmer](http://www.starvingfarmer.com/)<br>
 [411 (US)](http://www.411.com/)<br>
-[192 (UK)](http://www.192.com/)<br>
 [Alumni.net](http://www.alumni.net/)<br>
 [Ancestry](http://www.ancestry.com/)<br>
-[Voter Records (US)](https://voterrecords.com)<br>
+[Voter Records](https://voterrecords.com)<br>
 [Canada411](http://www.canada411.ca/)<br>
 [Cedar](http://www.cedar.buffalo.edu/AdServ/person-search.html)<br>
 [Charlie App](https://charlieapp.com/)<br>
@@ -443,7 +442,6 @@ Slack Team: https://openosint.slack.com
 [Biz Yellow Pages, USA Business & People Directory](http://www.bizyellowpages.com/)<br>
 [Genealogy Bank](http://www.genealogybank.com/)<br>
 [Genealogy Links](http://www.genealogylinks.net/)<br>
-[Burial Records (UK)](http://www.asedonline.com)<br>
 [Hey Press (Search for Journalists)](https://www.hey.press/)<br>
 [Infobel](http://www.infobel.com/en/world)<br>
 [Infospace White Pages](http://infospace.com/home/white-pages)<br>
@@ -470,11 +468,14 @@ Slack Team: https://openosint.slack.com
 [Switchboard](http://www.switchboard.com/)<br>
 [That’sThem](https://thatsthem.com/)<br>
 [USSearch](http://www.ussearch.com/)<br>
-[White Pages (US)](http://www.whitepages.com/)<br>
+[White Pages](http://www.whitepages.com/)<br>
 [Wink](http://itools.com/tool/wink-people-search)<br>
 [Yasni](http://www.yasni.com/)<br>
 [Zabasearch](http://www.zabasearch.com/)<br>
 [Zoominfo](http://www.zoominfo.com/)<br>
+## People (UK)
+[192 (UK)](http://www.192.com/)<br>
+[Burial Records (UK)](http://www.asedonline.com)<br>
 ## People (Ukraine) 
 [socialface.com.ua](http://socialface.com.ua)<br>
 ## People (Australia) 
