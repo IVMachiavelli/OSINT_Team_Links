@@ -503,7 +503,7 @@ Slack Team: https://openosint.slack.com
 ### Tumblr
 [Searchlr](http://searchlr.net/)<br>
 [Tumblr Search](http://www.tumblr.com/search)<br>
-### VKontakte
+### VKontakte (Russian Social Media)
 [Дезертир](http://vk.com/app3046467)<br>
 [Barkov.net](http://vk.barkov.net/)<br>
 [Find Face](http://findface.ru/)<br>
