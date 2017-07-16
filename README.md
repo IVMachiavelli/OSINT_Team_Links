@@ -455,10 +455,7 @@ Slack Team: https://openosint.slack.com
 [Lullar](http://com.lullar.com/)<br>
 [MarketVisual](http://www.marketvisual.com/)<br>
 [My Life People Search](https://www.mylife.com/people-search)<br>
-[The National Archives (UK)](http://www.nationalarchives.gov.uk/)<br>
 [PeekYou](http://www.peekyou.com/)<br>
-[People Search (Australia)](http://www.peoplesearch.com.au/)<br>
-[People Search (Philippines)](https://www.peoplesearch.ph)<br>
 [PeopleSearch.net](http://www.peoplesearch.net/)<br>
 [Pipl](https://pipl.com/)<br>
 [WhitePages Plus (pipl)](https://whitepages.plus)<br>
@@ -478,8 +475,12 @@ Slack Team: https://openosint.slack.com
 [Yasni](http://www.yasni.com/)<br>
 [Zabasearch](http://www.zabasearch.com/)<br>
 [Zoominfo](http://www.zoominfo.com/)<br>
-### People (Ukraine) 
+## People (Ukraine) 
 [socialface.com.ua](http://socialface.com.ua)<br>
+## People (Australia) 
+[People Search (Australia)](http://www.peoplesearch.com.au/)<br>
+## People (Philippines)
+[People Search (Philippines)](https://www.peoplesearch.ph)<br>
 ### Death Records
 [Grave Finder (US)](https://www.findagrave.com/index.html)<br>
 ### Arrests, Inmate & Court Search
