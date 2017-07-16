@@ -40,6 +40,7 @@ Slack Team: https://openosint.slack.com
 [Crytome](https://cryptome.org/)<br>
 [Wiki Leaks](https://wikileaks.org/)<br>
 [Database Today](https://www.databases.today)<br>
+[DataBreaches](https://www.databreaches.net/)<br>
 ### Geospatial Research and Mapping Tools
 [Terra server](https://www.terraserver.com/)<br>
 [Free Map Tools](https://www.freemaptools.com)<br>
@@ -75,6 +76,9 @@ Slack Team: https://openosint.slack.com
 [Yahoo Maps](https://maps.yahoo.com/)<br>
 [Crime Reports](https://www.crimereports.com/home/#!/dashboard)<br>
 [Crime Mapping](https://www.crimemapping.com/home)<br>
+[Your Navigation](http://yournavigation.org/)<br>
+[Open Railway Map](http://www.openrailwaymap.org/)<br>
+[US Nav Guide](http://www.usnaviguide.com)<br>
 ### Video Search and Other Video Tools
 [Aol Videos](http://on.aol.com/)<br>
 [Bing Videos](http://www.bing.com/?scope=video)<br>
@@ -103,6 +107,7 @@ Slack Team: https://openosint.slack.com
 [Recpe riScope](http://www.recperiscope.com/)<br>
 [Periscope Map](http://www.periscopemap.live/)<br>
 [Live Stream](https://livestream.com/watch)<br>
+[123webcam](http://123webcam.com/)<br>
 ### Audio Streams
 [Broadcastify](http://www.broadcastify.com/)<br>
 [Radio Reference](http://www.radioreference.com/apps/db/)<br>
@@ -119,6 +124,7 @@ Slack Team: https://openosint.slack.com
 [Metapicz](http://metapicz.com/)<br>
 [Lunapic](http://www194.lunapic.com/editor)<br>
 [free-ocr.com](free-ocr.com)<br>
+[thexifer.net](https://www.thexifer.net/)<br>
 ### Image Search
 [loc.alize](https://loc.alize.us)<br>
 [Revimg](http://www.revimg.com/)<br>
@@ -472,6 +478,8 @@ Slack Team: https://openosint.slack.com
 [Yasni](http://www.yasni.com/)<br>
 [Zabasearch](http://www.zabasearch.com/)<br>
 [Zoominfo](http://www.zoominfo.com/)<br>
+### People (Ukraine) 
+[socialface.com.ua](http://socialface.com.ua)<br>
 ### Death Records
 [Grave Finder (US)](https://www.findagrave.com/index.html)<br>
 ### Arrests, Inmate & Court Search
@@ -521,7 +529,8 @@ Slack Team: https://openosint.slack.com
 ### Instagram
 [Picodash](https://www.picodash.com/)<br>
 [Pixgram](www.pixgram.me)<br>
-[Websta (Instagram)](http://websta.me/)<br>
+[Tofo](http://tofo.me/)<br>
+[Websta](http://websta.me/)<br>
 ### Telegram
 [tchannels](https://tchannels.me)<br>
 ### Twitter
@@ -623,6 +632,7 @@ Slack Team: https://openosint.slack.com
 [Social Mention](http://socialmention.com/)<br>
 [Social Searcher](http://www.social-searcher.com/)<br>
 [Tagboard](https://tagboard.com/)<br>
+[yachudo](www.yachudo.com)<br>
 ### Major Social Networks
 [Draugiem (Latvia)](https://www.draugiem.lv/)<br>
 [Facebook](http://www.facebook.com/)<br>
