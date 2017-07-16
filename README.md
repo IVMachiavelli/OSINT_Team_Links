@@ -395,7 +395,7 @@ Slack Team: https://openosint.slack.com
 [ThatsThem](https://thatsthem.com/reverse-email-lookup)<br>
 [Toofr](https://www.toofr.com/)<br>
 [Verify Email](http://verify-email.org/)<br>
-# Scam Emails
+### Scam Emails
 [Scamdex](http://www.scamdex.com)<br>
 ### Phone Numbers
 [sync me](https://sync.me/)<br>
@@ -473,17 +473,16 @@ Slack Team: https://openosint.slack.com
 [Yasni](http://www.yasni.com/)<br>
 [Zabasearch](http://www.zabasearch.com/)<br>
 [Zoominfo](http://www.zoominfo.com/)<br>
-## People (UK)
+[Grave Finder (US)](https://www.findagrave.com/index.html)<br>
+#### People (UK)
 [192 (UK)](http://www.192.com/)<br>
 [Burial Records (UK)](http://www.asedonline.com)<br>
-## People (Ukraine) 
+#### People (Ukraine) 
 [socialface.com.ua](http://socialface.com.ua)<br>
-## People (Australia) 
+#### People (Australia) 
 [People Search (Australia)](http://www.peoplesearch.com.au/)<br>
-## People (Philippines)
+#### People (Philippines)
 [People Search (Philippines)](https://www.peoplesearch.ph)<br>
-### Death Records
-[Grave Finder (US)](https://www.findagrave.com/index.html)<br>
 ### Arrests, Inmate & Court Search
 [InmateAid (US)](https://www.inmateaid.com)<br>
 [Jailbase (US)](http://www.jailbase.com/en/search/)<br>
