@@ -473,16 +473,16 @@ Slack Team: https://openosint.slack.com
 [Yasni](http://www.yasni.com/)<br>
 [Zabasearch](http://www.zabasearch.com/)<br>
 [Zoominfo](http://www.zoominfo.com/)<br>
-[Grave Finder (US)](https://www.findagrave.com/index.html)<br>
+[Grave Finder (US)](https://www.findagrave.com/index.html)
 #### People (UK)
 [192 (UK)](http://www.192.com/)<br>
-[Burial Records (UK)](http://www.asedonline.com)<br>
+[Burial Records (UK)](http://www.asedonline.com)
 #### People (Ukraine) 
-[socialface.com.ua](http://socialface.com.ua)<br>
+[socialface.com.ua](http://socialface.com.ua)
 #### People (Australia) 
-[People Search (Australia)](http://www.peoplesearch.com.au/)<br>
+[People Search (Australia)](http://www.peoplesearch.com.au/)
 #### People (Philippines)
-[People Search (Philippines)](https://www.peoplesearch.ph)<br>
+[People Search (Philippines)](https://www.peoplesearch.ph)
 ### Arrests, Inmate & Court Search
 [InmateAid (US)](https://www.inmateaid.com)<br>
 [Jailbase (US)](http://www.jailbase.com/en/search/)<br>
