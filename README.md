@@ -340,7 +340,6 @@ Slack Team: https://openosint.slack.com
 [Morningstar Research](http://library.morningstar.com/)<br>
 [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)<br>
 [opencorporates](https://opencorporates.com/)<br>
-[Owler](https://www.owler.com/)<br>
 [Plunkett Research](http://www.plunkettresearchonline.com/)<br>
 [Scoot](http://www.scoot.co.uk/)<br>
 [SEMrush](https://www.semrush.com/)<br>
