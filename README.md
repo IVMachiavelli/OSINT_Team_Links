@@ -401,7 +401,9 @@ Slack Team: https://openosint.slack.com
 [True Caller](https://www.truecaller.com/)<br>
 [Free Carrier Lookup](http://freecarrierlookup.com/)<br>
 [bmobile.in (India)](https://bmobile.in/)<br>
-[Phone Validator (US)](http://www.phonevalidator.com)<br>
+[Phone Validator (US)](http://www.phonevalidator.com)<br>  
+[That's Them](http://thatsthem.com)<br>
+[Burner Challenge](https://challenge.burnerapp.com)<br>
 [Next Caller](https://nextcaller.com/)<br>
 ### People Investigations
 [Profile Engine](http://profileengine.com/)<br>
