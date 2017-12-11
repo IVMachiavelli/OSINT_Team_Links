@@ -66,7 +66,6 @@ Slack Team: https://openosint.slack.com
 [Inspire Geoportal](http://inspire-geoportal.ec.europa.eu/)<br>
 [Instant Google Street View](http://www.instantstreetview.com/)<br>
 [Mapbuildr](https://mapkit.io/editor)<br>
-[MapJam](http://mapjam.com/)<br>
 [Mapquest](https://www.mapquest.com/)<br>
 [Open Street Map](http://www.openstreetmap.org/)<br>
 [StoryMaps](http://storymaps.arcgis.com/en)<br>
