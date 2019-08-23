@@ -495,11 +495,10 @@ Slack Team: https://openosint.slack.com
 [Family Watchdog (US)](http://www.familywatchdog.us)<br>
 ### Username Check
 [Check User Names](http://www.checkusernames.com/)<br>
-[Gaddr](https://gaddr.me/)<br>
 [Knowem](http://www.knowem.com/)<br>
 [Name Chk](http://www.namechk.com/)<br>
 [Name Checkr](http://www.namecheckr.com/)<br>
-[Username Check](http://www.usernamecheck.com/)<br>
+[Name Checkup](https://namecheckup.com/)<br>
 ### Tumblr
 [Searchlr](http://searchlr.net/)<br>
 [Tumblr Search](http://www.tumblr.com/search)<br>
