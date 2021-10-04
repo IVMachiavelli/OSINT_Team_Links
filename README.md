@@ -281,6 +281,7 @@ Slack Team: https://openosint.slack.com
 [Verisign](http://dnssec-debugger.verisignlabs.com/)<br>
 [ViewDNS.info](http://viewdns.info/)<br>
 [You Get Signal](http://www.yougetsignal.com/)<br>
+[Whois Search](https://whois.marcaria.com/en)<br>
 ### Job Search Resources
 [Beyond](http://www.beyond.com/)<br>
 [CampusCareerCenter](http://www.campuscareercenter.com/)<br>
