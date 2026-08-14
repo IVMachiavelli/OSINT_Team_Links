@@ -541,12 +541,12 @@ Slack Team: https://openosint.slack.com
 [doesfollow](https://doesfollow.com/)<br>
 [Fake Follower Check](https://fakers.statuspeople.com/)<br>
 [First Tweet](http://ctrlq.org/first)<br>
-[Foller.me](http://foller.me/)<br>
+[Foller.me](https://foller.me/)<br>
 [FollowCheck](http://followcheck.com/)<br>
-[Followerwonk](http://followerwonk.com/)<br>
+[Followerwonk](https://followerwonk.com/)<br>
 [Geochirp](http://www.geochirp.com/)<br>
 [GeoSocial Footprint](http://geosocialfootprint.com/)<br>
-[GetTwitterID](http://gettwitterid.com/)<br>
+[GetTwitterID](https://gettwitterid.com/)<br>
 [Gigatweeter](http://gigatweeter.com/)<br>
 [Ground Signal](https://www.groundsignal.com/)<br>
 [HappyGrumpy](https://www.happygrumpy.com/)<br>
@@ -556,9 +556,9 @@ Slack Team: https://openosint.slack.com
 [introduce](http://www.introduceapp.me/)<br>
 [InTweets](http://intweets.com/)<br>
 [Mentionmapp](http://mentionmapp.com/)<br>
-[ManageFlitter](http://manageflitter.com/)<br>
+[ManageFlitter](https://manageflitter.com/)<br>
 [My Top Tweet](https://mytoptweet.com/)<br>
-[OneMillionTweetMap](http://onemilliontweetmap.com/)<br>
+[OneMillionTweetMap](https://onemilliontweetmap.com/)<br>
 [Queryfeed](https://queryfeed.net/)<br>
 [RiteTag](https://ritetag.com/)<br>
 [Sentiment140](http://www.twittersentiment.appspot.com/)<br>
@@ -588,8 +588,8 @@ Slack Team: https://openosint.slack.com
 [Tweriod](http://www.tweriod.com/)<br>
 [Twiangulate](http://www.twiangulate.com/)<br>
 [Twicsy](http://twicsy.com/)<br>
-[Twipho](http://www.twipho.net/)<br>
-[Twitonomy](http://www.twitonomy.com/)<br>
+[Twipho](https://twipho.net/)<br>
+[Twitonomy](https://www.twitonomy.com/)<br>
 [TwitRSS](https://twitrss.me/)<br>
 [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)<br>
 [Twitter Audit](https://www.twitteraudit.com/)<br>
@@ -600,6 +600,8 @@ Slack Team: https://openosint.slack.com
 [TWUBS Twitter Chat](http://twubs.com/twitter-chats)<br>
 [Schedule Warble](https://warble.co/)<br>
 [Block Together](http://blocktogether.org)<br>
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)<br>
+
 ### Google+
 [PlusFeed](http://plusfeed.frosas.net/)<br>
 ### Facebook
