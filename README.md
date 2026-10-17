@@ -185,6 +185,7 @@ Slack Team: https://openosint.slack.com
 [Slangit](http://slangit.com/)<br>
 [Systran](http://www.systransoft.com/)<br>
 [Translate.com](https://www.translate.com/)<br>
+[Stadify](https://www.stadify.site)<br>
 [Unbabel](https://unbabel.com/)<br>
 [WorldLingo](http://www.worldlingo.com/)<br>
 [WorldReference.com](http://www.wordreference.com/)<br>
